@@ -1,0 +1,19 @@
+{
+  "name": "pointclouds",
+  "version": "0.0.1",
+  "description": "一款“傻瓜式”的前端3D點雲成像工具",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PointClouds/PointClouds.git"
+  },
+  "author": "seafarer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PointClouds/PointClouds/issues"
+  },
+  "homepage": "https://github.com/PointClouds/PointClouds#readme"
+}
